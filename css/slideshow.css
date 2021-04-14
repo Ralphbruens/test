@@ -1,0 +1,99 @@
+
+body,html {
+  height: 100%;
+  background: #FFF;
+  font-size: 16px;
+  /* overflow-y: hidden; */
+
+}
+
+/* Slideshow container */
+.slideshow-container {
+  width:100%;
+  height: 100%;
+}
+
+.mySlides{
+  width: 100%;
+  height: 87%;
+}
+
+.mySlides2{
+  width: 100%;
+  height:100%;
+  display: inline-block;
+  /* margin-bottom: 1em; */
+}
+
+.mySlides3{
+  width: 100%;
+  height: 73.1%;
+  display: inline-block;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
+
+
+
+/* Caption text */
+.text {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: normal;
+  line-height: 1.3em;
+  color: #f2f2f2;
+  font-size: 1em;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: left;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: normal;
+  line-height: 1.3em;
+  color: #f2f2f2;
+  font-size: 1em;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: 1} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: 1} 
+  to {opacity: 1}
+}
+
+@media screen and (max-width: 870px) {
+  .mySlides{
+    width: 100%;
+    height: 43vh;
+  }
+
+.mySlides2{
+    
+    height: 43vh;
+  }
+
+
+
+}
