@@ -1,25 +1,25 @@
 @font-face {
   font-family: "Crouwd";
-  src: url("/font/PUCCrouwd-Regular.woff2") format("woff2"),
-       url("/font/PUCCrouwd-Regular.woff") format("woff");
+  src: url("../font/PUCCrouwd-Regular.woff2") format("woff2"),
+       url("../font/PUCCrouwd-Regular.woff") format("woff");
 }
 
 @font-face {
   font-family: "CrouwdM";
-  src: url("/font/PUCCrouwd-Medium.woff2") format("woff2"),
-       url("/font/PUCCrouwd-Medium.woff") format("woff");
+  src: url("../font/PUCCrouwd-Medium.woff2") format("woff2"),
+       url("../font/PUCCrouwd-Medium.woff") format("woff");
 }
 
 @font-face {
   font-family: "CrouwdO";
-  src: url("/font/PUCCrouwd-Oblique.woff2") format("woff2"),
-       url("/font/PUCCrouwd-Oblique.woff") format("woff");
+  src: url("../font/PUCCrouwd-Oblique.woff2") format("woff2"),
+       url("../font/PUCCrouwd-Oblique.woff") format("woff");
 }
 
 @font-face {
   font-family: "CrouwdMO";
-  src: url("/font/PUCCrouwd-MediumOblique.woff2") format("woff2"),
-       url("/font/PUCCrouwd-MediumOblique.woff") format("woff");
+  src: url("../font/PUCCrouwd-MediumOblique.woff2") format("woff2"),
+       url("../font/PUCCrouwd-MediumOblique.woff") format("woff");
 }
 
 ::placeholder {
