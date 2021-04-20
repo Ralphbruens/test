@@ -47,7 +47,7 @@ textarea:focus, input:focus{
 .font-tester{
   font-family: "Crouwd";
   font-size: 49px;
-  width: 90vw;
+  width: 63vw;
   display: block;
   line-height: 0.85em;
   letter-spacing: -0.85;
@@ -63,7 +63,7 @@ textarea:focus, input:focus{
 .font-tester-2{
   font-family: "CrouwdM";
   font-size: 49px;
-  width: 90vw;
+  width: 63vw;
   display: block;
   line-height: 0.85em;
   letter-spacing: -0.85;
@@ -79,7 +79,7 @@ textarea:focus, input:focus{
 .font-tester-3{
   font-family: "CrouwdO";
   font-size: 49px;
-  width: 90vw;
+  width: 63vw;
   display: block;
   line-height: 0.85em;
   letter-spacing: -0.85;
@@ -95,7 +95,7 @@ textarea:focus, input:focus{
 .font-tester-4{
   font-family: "CrouwdMO";
   font-size: 49px;
-  width: 90vw;
+  width: 63vw;
   display: block;
   line-height: 0.85em;
   letter-spacing: -0.85;
@@ -164,6 +164,28 @@ p.font-tester-ui{
 
 .font-tester-2{
   font-family: "CrouwdM";
+  font-size: 49px;
+  width: 90vw;
+  display: block;
+  line-height: 0.85em;
+  letter-spacing: -0.85;
+  color: black;
+  border: hidden;
+}
+
+.font-tester-3{
+  font-family: "CrouwdO";
+  font-size: 49px;
+  width: 90vw;
+  display: block;
+  line-height: 0.85em;
+  letter-spacing: -0.85;
+  color: black;
+  border: hidden;
+}
+
+.font-tester-4{
+  font-family: "CrouwdMO";
   font-size: 49px;
   width: 90vw;
   display: block;
