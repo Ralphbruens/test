@@ -315,6 +315,8 @@ p.fa.fa-bars.mobile{
   
 }
 
+
+
   h1{
     
     font-size: 2em;
@@ -327,9 +329,9 @@ p.fa.fa-bars.mobile{
     -webkit-font-smoothing: antialiased;
   }
 
-  p.white{
+  p.foot{
     font-size: 0.75em;
-    color: #FFF;
+    color: #000;
   }
 
   .topnav {
